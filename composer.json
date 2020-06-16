@@ -35,7 +35,7 @@
         }
     },
     "suggest": {
-        "lumph/laravel-database": "Required to use the database presence verifier (^7.0)."
+        "lumphp/laravel-database": "Required to use the database presence verifier (^7.0)."
     },
     "config": {
         "sort-packages": true
