@@ -4,8 +4,8 @@
     "license": "MIT",
     "homepage": "https://laravel.com",
     "support": {
-        "issues": "https://github.com/lumphp/laravel-lumen/issues",
-        "source": "https://github.com/lumphp/laravel-lumen"
+        "issues": "https://github.com/lumphp/laravel-validation/issues",
+        "source": "https://github.com/lumphp/laravel-validation"
     },
     "authors": [
         {
