@@ -1,11 +1,11 @@
 {
-    "name": "lumphp/laravel-validation",
+    "name": "illuminate/validation",
     "description": "The Illuminate Validation package.",
     "license": "MIT",
     "homepage": "https://laravel.com",
     "support": {
-        "issues": "https://github.com/lumphp/laravel-validation/issues",
-        "source": "https://github.com/lumphp/laravel-validation"
+        "issues": "https://github.com/laravel/framework/issues",
+        "source": "https://github.com/laravel/framework"
     },
     "authors": [
         {
@@ -17,12 +17,12 @@
         "php": "^7.3|^8.0",
         "ext-json": "*",
         "egulias/email-validator": "^2.1.10",
-        "lumphp/laravel-collections": "^8.0",
-        "lumphp/laravel-container": "^8.0",
-        "lumphp/laravel-contracts": "^8.0",
-        "lumphp/laravel-macroable": "^8.0",
-        "lumphp/laravel-support": "^8.0",
-        "lumphp/laravel-translation": "^8.0",
+        "illuminate/collections": "^8.0",
+        "illuminate/container": "^8.0",
+        "illuminate/contracts": "^8.0",
+        "illuminate/macroable": "^8.0",
+        "illuminate/support": "^8.0",
+        "illuminate/translation": "^8.0",
         "symfony/http-foundation": "^5.1.4",
         "symfony/mime": "^5.1.4"
     },
