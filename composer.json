@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Illuminate\\Validation\\": ""
+            "Illuminate\\Validation\\": "src/"
         }
     },
     "extra": {
@@ -37,7 +37,7 @@
         }
     },
     "suggest": {
-        "illuminate/database": "Required to use the database presence verifier (^8.0)."
+        "lumphp/laravel-database": "Required to use the database presence verifier (^8.0)."
     },
     "config": {
         "sort-packages": true
